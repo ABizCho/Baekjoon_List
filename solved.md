@@ -1,5 +1,4 @@
 # Baekjoon
-<hr>
 Baekjoon problems that i solved.
 
 ## 2021 / 10/ 06
