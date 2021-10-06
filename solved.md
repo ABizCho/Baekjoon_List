@@ -2,8 +2,6 @@
 <hr>
 Baekjoon problems that i solved.
 
-<br><br>
-
 ## 2021 / 10/ 06
 
 | 난이도 | 번호 | 문제 이름 |
