@@ -1,6 +1,6 @@
 # Baekjoon
+<hr>
 Baekjoon problems that i solved.
-<hr/>
 
 <br><br>
 
