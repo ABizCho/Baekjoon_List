@@ -1,5 +1,5 @@
 # Baekjoon by 수평
-Baekjoon Algorythm tests that i solved.
+Baekjoon Algorithm tests that i solved.
 
 <br><br>
 
