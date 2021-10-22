@@ -1,12 +1,13 @@
 # Baekjoon by 수평
 Baekjoon Algorythm tests that i solved.
 
-<br><br><br>
+<br><br>
+
+#### 알고리즘 풀이기록
    <a href="https://github.com/ABizCho/Baekjoon/blob/main/solved.md"><img src="https://ifh.cc/g/joRih1.png"/></a>
 <br><br><br>
 </p>
-<br><br><br>
-
+<br>
 
 ## 2021 / 10 / 22
 
