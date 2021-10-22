@@ -4,7 +4,7 @@ Baekjoon Algorythm tests that i solved.
 <br><br>
 
 ## 알고리즘 풀이기록
-   <a href="https://github.com/ABizCho/Baekjoon/blob/main/solved.md"><img src="https://ifh.cc/g/pypfsH.png"/></a>
+   <a href="https://velog.io/@he1256/series/%EB%B0%B1%EC%A4%80by%EC%88%98%ED%8F%89.md"><img src="https://ifh.cc/g/pypfsH.png"/></a>
 <br><br><br>
 </p>
 <br>
