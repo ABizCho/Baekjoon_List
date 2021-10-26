@@ -24,6 +24,10 @@ Baekjoon Algorithm tests that i solved.
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [2438](https://www.acmicpc.net/problem/2438) | [별 찍기 - 1](https://www.acmicpc.net/problem/2438)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%802438-%EB%B3%84-%EC%B0%8D%EA%B8%B0-1-using-python)|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [2439](https://www.acmicpc.net/problem/2439) | [별 찍기 - 2](https://www.acmicpc.net/problem/2439)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%802439-%EB%B3%84%EC%B0%8D%EA%B8%B0-2-using-Python)|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [10871](https://www.acmicpc.net/problem/10871) | [X보다 작은 수](https://www.acmicpc.net/problem/10871)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%8010871-X%EB%B3%B4%EB%8B%A4-%EC%9E%91%EC%9D%80-%EC%88%98-using-Python)|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [10952](https://www.acmicpc.net/problem/10952) | [A+B - 5](https://www.acmicpc.net/problem/10952)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%8010952-AB-5-using-Python)|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [10951](https://www.acmicpc.net/problem/10951) | [A+B - 4](https://www.acmicpc.net/problem/10951)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%8010951-AB-4-using-Python)|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [1110](https://www.acmicpc.net/problem/1110) | [더하기 사이클](https://www.acmicpc.net/problem/1110)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%801110-%EB%8D%94%ED%95%98%EA%B8%B0-%EC%82%AC%EC%9D%B4%ED%81%B4-using-Python)|
+
 
 <br>
 
