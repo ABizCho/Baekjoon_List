@@ -7,6 +7,16 @@ Baekjoon Algorithm tests that i solved.
    <a href="https://velog.io/@he1256/series/%EB%B0%B1%EC%A4%80by%EC%88%98%ED%8F%89"><img src="https://ifh.cc/g/pypfsH.png"/></a>
 <br><br><br>
 </p>
+
+
+## 2021 / 10 / 28
+
+| 난이도 | 번호 | 문제 이름 | 풀이 복기 |
+|:------:|:----:|:---------:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [10818](https://www.acmicpc.net/problem/10818) | [최소,최대](https://www.acmicpc.net/problem/10818)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%8010818-%EC%B5%9C%EC%86%8C%EC%B5%9C%EB%8C%80-using-Python)|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2562](https://www.acmicpc.net/problem/2562) | [최댓값](https://www.acmicpc.net/problem/2562)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%802562-%EC%B5%9C%EB%8C%93%EA%B0%92-using-Python)|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2577](https://www.acmicpc.net/problem/2577) | [숫자의 개수](https://www.acmicpc.net/problem/2577)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%808393-%ED%95%A9-using-python)|
+
 <br>
 
 ## 2021 / 10 / 26
