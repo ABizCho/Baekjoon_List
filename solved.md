@@ -15,6 +15,7 @@ Baekjoon Algorithm tests that i solved.
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1065](https://www.acmicpc.net/problem/1065) | [한수](https://www.acmicpc.net/problem/1065)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%801065-%ED%95%9C%EC%88%98-using-Python)|
 
 <br>
+
 ## 2021 / 10 / 29
 
 | 난이도 | 번호 | 문제 이름 | 풀이 복기 |
