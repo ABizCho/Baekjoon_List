@@ -19,7 +19,7 @@ Baekjoon Algorithm tests that i solved.
 
 | 난이도 | 번호 | 문제 이름 | 풀이 복기 |
 |:------:|:----:|:---------:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [15596](https://www.acmicpc.net/problem/15596) | [정수 N개의 합](https://www.acmicpc.net/problem/15596)| [풀이 by수평]|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [15596](https://www.acmicpc.net/problem/15596) | [정수 N개의 합](https://www.acmicpc.net/problem/15596)||
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4673](https://www.acmicpc.net/problem/4673) | [셀프 넘버](https://www.acmicpc.net/problem/4673)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%804673-%EC%85%80%ED%94%84%EB%84%98%EB%B2%84-using-Python)|
 
 <br>
