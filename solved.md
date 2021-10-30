@@ -13,6 +13,9 @@ Baekjoon Algorithm tests that i solved.
 | 난이도 | 번호 | 문제 이름 | 풀이 복기 |
 |:------:|:----:|:---------:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1065](https://www.acmicpc.net/problem/1065) | [한수](https://www.acmicpc.net/problem/1065)| [풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%801065-%ED%95%9C%EC%88%98-using-Python)|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [11654](https://www.acmicpc.net/problem/11654) | [아스키 코드](https://www.acmicpc.net/problem/11654)||
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720)||
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10809](https://www.acmicpc.net/problem/10809) | [알파벳 찾기](https://www.acmicpc.net/problem/10809)|[풀이 by수평](https://velog.io/@he1256/%EB%B0%B1%EC%A4%8010809-%EC%95%8C%ED%8C%8C%EB%B2%B3-%EC%B0%BE%EA%B8%B0-in-Python)|
 
 <br>
 
