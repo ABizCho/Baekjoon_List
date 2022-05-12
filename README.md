@@ -1,9 +1,11 @@
-# Baekjoon by 수평
-Baekjoon Algorithm tests that i solved.
+# Baekjoon 기록 by 수평
+<img src="img.jpg">
+
+Baekjoon problem records that I solved
 
 <br><br>
 
-## 알고리즘 풀이기록
+## 풀이 노트
    <a href="https://velog.io/@he1256/series/%EB%B0%B1%EC%A4%80by%EC%88%98%ED%8F%89"><img src="https://ifh.cc/g/pypfsH.png"/></a>
 <br><br><br>
 </p>
