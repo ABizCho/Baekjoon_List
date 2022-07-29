@@ -6,7 +6,10 @@ Baekjoon problem records that I solved
 <br><br>
 
 ## 풀이 노트
-   <a href="https://velog.io/@he1256/series/%EB%B0%B1%EC%A4%80by%EC%88%98%ED%8F%89"><img src="https://ifh.cc/g/pypfsH.png"/></a>
+<br>
+
+[수평 Velog 풀이노트](https://velog.io/@he1256/series/%EB%B0%B1%EC%A4%80by%EC%88%98%ED%8F%89)
+
 <br><br><br>
 </p>
 
