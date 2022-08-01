@@ -1,7 +1,7 @@
 # Baekjoon 기록 by 수평
 <img src="img.jpg">
 
-Baekjoon problem records that I solved
+Records of Baekjoon Quiz that I solved
 
 <br><br>
 
